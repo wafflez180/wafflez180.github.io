@@ -1,0 +1,23 @@
+p {
+    color: green;
+    font-size: 20px;
+    text-align: center;
+}
+.p2 {
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}
+#last-paragraph{
+  font-family: helvetica, san-serif;
+  color: purple;
+  font-size: 30px;
+  text-align: left;
+}
+
+.video {
+  border-style: dashed;
+  border-radius: 2;
+  border-width: thick;
+  border-color: green;
+}
